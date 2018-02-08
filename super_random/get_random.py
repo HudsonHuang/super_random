@@ -4,7 +4,7 @@ Created on Thu Feb  8 15:03:20 2018
 
 @author: hudson_huang
 
-The API returns currency of EUR-USD as a random number, 
+The API returns exchange rate of EUR-USD as a random number, 
 which updates rates daily around 4PM CET every working day.
 
 """
