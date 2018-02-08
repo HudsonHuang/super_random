@@ -6,3 +6,4 @@ True random number generator based on EUR-USD daily exchange rate.
 - get realtime exchange rate
 - test case for continuous integration
 - set random number range
+- release to PyPi
